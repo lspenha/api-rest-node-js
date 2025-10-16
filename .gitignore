@@ -44,4 +44,4 @@ package-lock.json
 src/database/*.json
 !src/database/.gitkeep
 
-tmp/app.db
+db/app.db
