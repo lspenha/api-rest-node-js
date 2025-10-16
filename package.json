@@ -1,0 +1,33 @@
+{
+  "name": "api-rest-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lspenha/api-rest-node-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/lspenha/api-rest-node-js/issues"
+  },
+   "devDependencies": {
+    "@rocketseat/eslint-config": "^2.2.2",
+    "@types/node": "^24.7.2",
+    "eslint": "^8.57.1",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "fastify": "^5.6.1",
+    "knex": "^3.1.0",
+    "sqlite3": "^5.1.7"
+  },
+  "homepage": "https://github.com/lspenha/api-rest-node-js#readme"
+}
